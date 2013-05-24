@@ -63,7 +63,7 @@
 		417BAE9816AD39D2002A8250 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		417BAE9A16AD39D2002A8250 /* SampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleTests.h; sourceTree = "<group>"; };
 		417BAE9B16AD39D2002A8250 /* SampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleTests.m; sourceTree = "<group>"; };
-		78165913174F92FA00C148C8 /* NewFielChecking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewFielChecking.h; sourceTree = "<group>"; };
+		78165915174F956D00C148C8 /* SampleFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SampleFile.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,7 +132,6 @@
 				31F08F9D174F84DC009C8FE0 /* PSHomeViewController.h */,
 				31F08F9E174F84DC009C8FE0 /* PSHomeViewController.m */,
 				417BAE6E16AD39D2002A8250 /* Supporting Files */,
-				78165913174F92FA00C148C8 /* NewFielChecking.h */,
 			);
 			path = Sample;
 			sourceTree = "<group>";
@@ -147,6 +146,7 @@
 				417BAE7916AD39D2002A8250 /* Default.png */,
 				417BAE7B16AD39D2002A8250 /* Default@2x.png */,
 				417BAE7D16AD39D2002A8250 /* Default-568h@2x.png */,
+				78165915174F956D00C148C8 /* SampleFile.h */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
