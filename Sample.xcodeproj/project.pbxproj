@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		31F08F9F174F84DC009C8FE0 /* PSHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31F08F9E174F84DC009C8FE0 /* PSHomeViewController.m */; };
 		417BAE6816AD39D2002A8250 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 417BAE6716AD39D2002A8250 /* UIKit.framework */; };
 		417BAE6A16AD39D2002A8250 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 417BAE6916AD39D2002A8250 /* Foundation.framework */; };
 		417BAE6C16AD39D2002A8250 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 417BAE6B16AD39D2002A8250 /* CoreGraphics.framework */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		31F08F9D174F84DC009C8FE0 /* PSHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PSHomeViewController.h; sourceTree = "<group>"; };
+		31F08F9E174F84DC009C8FE0 /* PSHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PSHomeViewController.m; sourceTree = "<group>"; };
 		417BAE6316AD39D2002A8250 /* Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		417BAE6716AD39D2002A8250 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		417BAE6916AD39D2002A8250 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -125,6 +128,8 @@
 				417BAE8216AD39D2002A8250 /* MainStoryboard_iPad.storyboard */,
 				417BAE8516AD39D2002A8250 /* ViewController.h */,
 				417BAE8616AD39D2002A8250 /* ViewController.m */,
+				31F08F9D174F84DC009C8FE0 /* PSHomeViewController.h */,
+				31F08F9E174F84DC009C8FE0 /* PSHomeViewController.m */,
 				417BAE6E16AD39D2002A8250 /* Supporting Files */,
 			);
 			path = Sample;
@@ -277,6 +282,7 @@
 				417BAE7416AD39D2002A8250 /* main.m in Sources */,
 				417BAE7816AD39D2002A8250 /* AppDelegate.m in Sources */,
 				417BAE8716AD39D2002A8250 /* ViewController.m in Sources */,
+				31F08F9F174F84DC009C8FE0 /* PSHomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +466,7 @@
 				417BAEA116AD39D2002A8250 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		417BAEA216AD39D2002A8250 /* Build configuration list for PBXNativeTarget "SampleTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +475,7 @@
 				417BAEA416AD39D2002A8250 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
