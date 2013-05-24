@@ -25,7 +25,6 @@
 		417BAE9116AD39D2002A8250 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 417BAE6916AD39D2002A8250 /* Foundation.framework */; };
 		417BAE9916AD39D2002A8250 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 417BAE9716AD39D2002A8250 /* InfoPlist.strings */; };
 		417BAE9C16AD39D2002A8250 /* SampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 417BAE9B16AD39D2002A8250 /* SampleTests.m */; };
-		78165919174F969F00C148C8 /* NewTestingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 78165918174F969F00C148C8 /* NewTestingView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,8 +64,6 @@
 		417BAE9A16AD39D2002A8250 /* SampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleTests.h; sourceTree = "<group>"; };
 		417BAE9B16AD39D2002A8250 /* SampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleTests.m; sourceTree = "<group>"; };
 		78165916174F965D00C148C8 /* SampleFle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleFle.h; sourceTree = "<group>"; };
-		78165917174F969F00C148C8 /* NewTestingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewTestingView.h; sourceTree = "<group>"; };
-		78165918174F969F00C148C8 /* NewTestingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewTestingView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,8 +147,6 @@
 				417BAE7B16AD39D2002A8250 /* Default@2x.png */,
 				417BAE7D16AD39D2002A8250 /* Default-568h@2x.png */,
 				78165916174F965D00C148C8 /* SampleFle.h */,
-				78165917174F969F00C148C8 /* NewTestingView.h */,
-				78165918174F969F00C148C8 /* NewTestingView.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -290,7 +285,6 @@
 				417BAE7816AD39D2002A8250 /* AppDelegate.m in Sources */,
 				417BAE8716AD39D2002A8250 /* ViewController.m in Sources */,
 				31F08F9F174F84DC009C8FE0 /* PSHomeViewController.m in Sources */,
-				78165919174F969F00C148C8 /* NewTestingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
