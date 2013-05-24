@@ -16,12 +16,13 @@
 
 - (void)viewDidLoad
 {
-    [super viewDidLoad];
+    [super viewDidLoad];	
 	
 }
 
 - (IBAction)buttonClicked:(id)sender
 {
+    //Changes by Rubini.
     UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Really click?" message:@"Do you really want to click?" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
     [alert show];
 }
