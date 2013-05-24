@@ -22,7 +22,7 @@
 
 - (IBAction)buttonClicked:(id)sender
 {
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Really click?" message:@"Do you really want to click uday?" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Really click?" message:@"Do you really want to click?" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
     [alert show];
 }
 
