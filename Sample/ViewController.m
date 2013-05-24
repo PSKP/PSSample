@@ -23,6 +23,7 @@
 - (IBAction)buttonClicked:(id)sender
 {
     //Changes by Rubini.
+    //CHNGES BY UDAY
     UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Really click?" message:@"Do you really want to click?" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
     [alert show];
 }
