@@ -25,6 +25,7 @@
 		417BAE9116AD39D2002A8250 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 417BAE6916AD39D2002A8250 /* Foundation.framework */; };
 		417BAE9916AD39D2002A8250 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 417BAE9716AD39D2002A8250 /* InfoPlist.strings */; };
 		417BAE9C16AD39D2002A8250 /* SampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 417BAE9B16AD39D2002A8250 /* SampleTests.m */; };
+		7816591B174F9B3900C148C8 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7816591A174F9B3900C148C8 /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		417BAE9A16AD39D2002A8250 /* SampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleTests.h; sourceTree = "<group>"; };
 		417BAE9B16AD39D2002A8250 /* SampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleTests.m; sourceTree = "<group>"; };
 		78165916174F965D00C148C8 /* SampleFle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleFle.h; sourceTree = "<group>"; };
+		7816591A174F9B3900C148C8 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7816591B174F9B3900C148C8 /* QuartzCore.framework in Frameworks */,
 				417BAE6816AD39D2002A8250 /* UIKit.framework in Frameworks */,
 				417BAE6A16AD39D2002A8250 /* Foundation.framework in Frameworks */,
 				417BAE6C16AD39D2002A8250 /* CoreGraphics.framework in Frameworks */,
@@ -93,6 +96,7 @@
 		417BAE5816AD39D2002A8250 = {
 			isa = PBXGroup;
 			children = (
+				7816591A174F9B3900C148C8 /* QuartzCore.framework */,
 				417BAE6D16AD39D2002A8250 /* Sample */,
 				417BAE9416AD39D2002A8250 /* SampleTests */,
 				417BAE6616AD39D2002A8250 /* Frameworks */,

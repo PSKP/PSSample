@@ -9,6 +9,4 @@
 #ifndef Sample_SampleFle_h
 #define Sample_SampleFle_h
 
-
-
 #endif
