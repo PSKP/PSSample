@@ -24,7 +24,8 @@
 {
     //Changes by Rubini.
     //CHNGES BY UDAY
-    //Pulling check
+    //Commit Checking
+    //Push Testing
     UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Really click?" message:@"Do you really want to click?" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil];
     [alert show];
 }
