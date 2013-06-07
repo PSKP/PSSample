@@ -1,0 +1,216 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DeleteRowAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 363}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 485}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DeleteRowAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 490}}";
+			sepNavSelRange = "{449, 25}";
+			sepNavVisRange = "{144, 590}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DeleteRow */ = {
+		activeExec = 0;
+		executables = (
+			6A82B92210563DCA00F609CC /* DeleteRow */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DeleteRowViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 363}}";
+			sepNavSelRange = "{327, 0}";
+			sepNavVisRange = "{0, 370}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DeleteRowViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 2142}}";
+			sepNavSelRange = "{145, 0}";
+			sepNavVisRange = "{0, 912}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6A82B92210563DCA00F609CC /* DeleteRow */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DeleteRow */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DeleteRow */,
+		);
+		codeSenseManager = 6A82B92710563DE800F609CC /* Code sense */;
+		executables = (
+			6A82B92210563DCA00F609CC /* DeleteRow */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					539,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 274096918;
+			PBXWorkspaceStateSaveDate = 274096918;
+		};
+		perUserProjectItems = {
+			6A82B93D10563F3200F609CC /* PBXTextBookmark */ = 6A82B93D10563F3200F609CC /* PBXTextBookmark */;
+			6A82B93E10563F3200F609CC /* PBXTextBookmark */ = 6A82B93E10563F3200F609CC /* PBXTextBookmark */;
+			6A82B93F10563F3200F609CC /* PBXTextBookmark */ = 6A82B93F10563F3200F609CC /* PBXTextBookmark */;
+			6A82B94010563F3200F609CC /* PBXTextBookmark */ = 6A82B94010563F3200F609CC /* PBXTextBookmark */;
+			6A82B9D51056442700F609CC /* PBXTextBookmark */ = 6A82B9D51056442700F609CC /* PBXTextBookmark */;
+			6A82BA1210565EE800F609CC /* PBXTextBookmark */ = 6A82BA1210565EE800F609CC /* PBXTextBookmark */;
+			6A82BA1310565EE800F609CC /* PBXTextBookmark */ = 6A82BA1310565EE800F609CC /* PBXTextBookmark */;
+			6A82BA221056625E00F609CC /* PBXTextBookmark */ = 6A82BA221056625E00F609CC /* PBXTextBookmark */;
+			6ADF9FE81056660700D464CD /* PBXTextBookmark */ = 6ADF9FE81056660700D464CD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6A82B92610563DE800F609CC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6A82B92210563DCA00F609CC /* DeleteRow */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DeleteRow;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	6A82B92610563DE800F609CC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	6A82B92710563DE800F609CC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6A82B93D10563F3200F609CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DeleteRowAppDelegate.h */;
+		name = "DeleteRowAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	6A82B93E10563F3200F609CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DeleteRowAppDelegate.m */;
+		name = "DeleteRowAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 144;
+	};
+	6A82B93F10563F3200F609CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DeleteRowViewController.h */;
+		name = "DeleteRowViewController.h: 11";
+		rLen = 0;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	6A82B94010563F3200F609CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DeleteRowViewController.m */;
+		name = "DeleteRowViewController.m: 15";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 1172;
+		vrLoc = 3;
+	};
+	6A82B9D51056442700F609CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DeleteRowAppDelegate.h */;
+		name = "DeleteRowAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	6A82BA1210565EE800F609CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DeleteRowAppDelegate.m */;
+		name = "DeleteRowAppDelegate.m: 19";
+		rLen = 25;
+		rLoc = 449;
+		rType = 0;
+		vrLen = 590;
+		vrLoc = 144;
+	};
+	6A82BA1310565EE800F609CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DeleteRowViewController.h */;
+		name = "DeleteRowViewController.h: 15";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	6A82BA221056625E00F609CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DeleteRowViewController.m */;
+		name = "DeleteRowViewController.m: 68";
+		rLen = 0;
+		rLoc = 2012;
+		rType = 0;
+		vrLen = 558;
+		vrLoc = 1724;
+	};
+	6ADF9FE81056660700D464CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DeleteRowViewController.m */;
+		name = "DeleteRowViewController.m: 7";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+}
