@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		31C8A4DD17622FC500BFD816 /* TestingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31C8A4DC17622FC500BFD816 /* TestingViewController.m */; };
 		31F08F9F174F84DC009C8FE0 /* PSHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 31F08F9E174F84DC009C8FE0 /* PSHomeViewController.m */; };
 		417BAE6816AD39D2002A8250 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 417BAE6716AD39D2002A8250 /* UIKit.framework */; };
 		417BAE6A16AD39D2002A8250 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 417BAE6916AD39D2002A8250 /* Foundation.framework */; };
@@ -39,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		31C8A4DB17622FC500BFD816 /* TestingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestingViewController.h; sourceTree = "<group>"; };
+		31C8A4DC17622FC500BFD816 /* TestingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestingViewController.m; sourceTree = "<group>"; };
 		31F08F9D174F84DC009C8FE0 /* PSHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PSHomeViewController.h; sourceTree = "<group>"; };
 		31F08F9E174F84DC009C8FE0 /* PSHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PSHomeViewController.m; sourceTree = "<group>"; };
 		417BAE6316AD39D2002A8250 /* Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -93,6 +96,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		31C8A4D917622FA300BFD816 /* Example */ = {
+			isa = PBXGroup;
+			children = (
+				31C8A4DB17622FC500BFD816 /* TestingViewController.h */,
+				31C8A4DC17622FC500BFD816 /* TestingViewController.m */,
+			);
+			path = Example;
+			sourceTree = "<group>";
+		};
 		417BAE5816AD39D2002A8250 = {
 			isa = PBXGroup;
 			children = (
@@ -127,6 +139,7 @@
 		417BAE6D16AD39D2002A8250 /* Sample */ = {
 			isa = PBXGroup;
 			children = (
+				31C8A4D917622FA300BFD816 /* Example */,
 				417BAE7616AD39D2002A8250 /* AppDelegate.h */,
 				417BAE7716AD39D2002A8250 /* AppDelegate.m */,
 				417BAE7F16AD39D2002A8250 /* MainStoryboard_iPhone.storyboard */,
@@ -289,6 +302,7 @@
 				417BAE7816AD39D2002A8250 /* AppDelegate.m in Sources */,
 				417BAE8716AD39D2002A8250 /* ViewController.m in Sources */,
 				31F08F9F174F84DC009C8FE0 /* PSHomeViewController.m in Sources */,
+				31C8A4DD17622FC500BFD816 /* TestingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
